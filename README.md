@@ -50,9 +50,10 @@ bash run.sh
 ### Run Tests
 
 ```
-pytest -vvv -s tests/
+pytest -vvv -s tests/ 
+# [22/22 Test Passed]
 
 # for test coverage report
-# pytest --cov
+# pytest --cov  ----------- [94%]              
 # open htmlcov/index.html
 ```
